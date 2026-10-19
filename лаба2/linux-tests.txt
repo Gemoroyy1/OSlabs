@@ -1,0 +1,69 @@
+CASE 0: PASS
+SERVER
+
+1 Map file 2 Write data 0 Exit
+> Mapped
+
+1 Map file 2 Write data 0 Exit
+> Data: Waiting for client
+Client acknowledged
+
+1 Map file 2 Write data 0 Exit
+> 
+CLIENT
+
+1 Map file 2 Read data 0 Exit
+> Mapped
+
+1 Map file 2 Read data 0 Exit
+> Waiting for data
+Client received: Hello, shared memory!
+
+1 Map file 2 Read data 0 Exit
+> 
+CASE 1: PASS
+SERVER
+
+1 Map file 2 Write data 0 Exit
+> Mapped
+
+1 Map file 2 Write data 0 Exit
+> Data: Waiting for client
+Client acknowledged
+
+1 Map file 2 Write data 0 Exit
+> 
+CLIENT
+
+1 Map file 2 Read data 0 Exit
+> Mapped
+
+1 Map file 2 Read data 0 Exit
+> Waiting for data
+Client received: Серов И.С. группа 4312
+
+1 Map file 2 Read data 0 Exit
+> 
+CASE 2: PASS
+SERVER
+
+1 Map file 2 Write data 0 Exit
+> Mapped
+
+1 Map file 2 Write data 0 Exit
+> Data: Waiting for client
+Client acknowledged
+
+1 Map file 2 Write data 0 Exit
+> 
+CLIENT
+
+1 Map file 2 Read data 0 Exit
+> Mapped
+
+1 Map file 2 Read data 0 Exit
+> Waiting for data
+Client received: 
+
+1 Map file 2 Read data 0 Exit
+> 

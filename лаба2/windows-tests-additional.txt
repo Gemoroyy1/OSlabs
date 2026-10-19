@@ -1,0 +1,46 @@
+
+1 System 2 Memory status 3 Query address
+4 Reserve 5 Commit 6 Reserve+commit
+7 Decommit 8 Release 9 Write byte 10 Protect 0 Exit
+> Last allocation=0 (0 for automatic allocation)
+Address (0x...): Bytes: Allocated=0x20030ee0000
+
+1 System 2 Memory status 3 Query address
+4 Reserve 5 Commit 6 Reserve+commit
+7 Decommit 8 Release 9 Write byte 10 Protect 0 Exit
+> Last allocation=0x20030ee0000 (0 for automatic allocation)
+Address (0x...): Bytes: Allocated=0x21000000000
+
+1 System 2 Memory status 3 Query address
+4 Reserve 5 Commit 6 Reserve+commit
+7 Decommit 8 Release 9 Write byte 10 Protect 0 Exit
+> Last allocation=0x21000000000 (0 for automatic allocation)
+Address (0x...): Base=0x21000000000 AllocationBase=0x21000000000 Size=4096 State=4096 Protect=4 Type=131072
+
+1 System 2 Memory status 3 Query address
+4 Reserve 5 Commit 6 Reserve+commit
+7 Decommit 8 Release 9 Write byte 10 Protect 0 Exit
+> Last allocation=0x21000000000 (0 for automatic allocation)
+Address (0x...): 
+1 System 2 Memory status 3 Query address
+4 Reserve 5 Commit 6 Reserve+commit
+7 Decommit 8 Release 9 Write byte 10 Protect 0 Exit
+> Last allocation=0x21000000000 (0 for automatic allocation)
+Address (0x...): Bytes: Allocated=0x20031140000
+
+1 System 2 Memory status 3 Query address
+4 Reserve 5 Commit 6 Reserve+commit
+7 Decommit 8 Release 9 Write byte 10 Protect 0 Exit
+> Last allocation=0x20031140000 (0 for automatic allocation)
+Address (0x...): Base=0 AllocationBase=0 Size=2147352576 State=65536 Protect=1 Type=0
+
+1 System 2 Memory status 3 Query address
+4 Reserve 5 Commit 6 Reserve+commit
+7 Decommit 8 Release 9 Write byte 10 Protect 0 Exit
+> Last allocation=0x20031140000 (0 for automatic allocation)
+Address (0x...): Bytes: Protection (readonly=2, readwrite=4, noaccess=1): 
+1 System 2 Memory status 3 Query address
+4 Reserve 5 Commit 6 Reserve+commit
+7 Decommit 8 Release 9 Write byte 10 Protect 0 Exit
+Win32 error 487
+> 

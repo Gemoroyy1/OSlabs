@@ -1,0 +1,73 @@
+
+1 System 2 Memory status 3 Query address
+4 Reserve 5 Commit 6 Reserve+commit
+7 Decommit 8 Release 9 Write byte 10 Protect 0 Exit
+> Page=4096 Granularity=65536 CPUs=16 Min=0x10000 Max=0x7ffffffeffff
+
+1 System 2 Memory status 3 Query address
+4 Reserve 5 Commit 6 Reserve+commit
+7 Decommit 8 Release 9 Write byte 10 Protect 0 Exit
+> Load=60 Physical=34069340160 Available=13409587200 Virtual=140737488224256 AvailableVirtual=140733128462336
+
+1 System 2 Memory status 3 Query address
+4 Reserve 5 Commit 6 Reserve+commit
+7 Decommit 8 Release 9 Write byte 10 Protect 0 Exit
+> Last allocation=0 (0 for automatic allocation)
+Address (0x...): Bytes: Allocated=0x20000000000
+
+1 System 2 Memory status 3 Query address
+4 Reserve 5 Commit 6 Reserve+commit
+7 Decommit 8 Release 9 Write byte 10 Protect 0 Exit
+> Last allocation=0x20000000000 (0 for automatic allocation)
+Address (0x...): Base=0x20000000000 AllocationBase=0x20000000000 Size=8192 State=8192 Protect=0 Type=131072
+
+1 System 2 Memory status 3 Query address
+4 Reserve 5 Commit 6 Reserve+commit
+7 Decommit 8 Release 9 Write byte 10 Protect 0 Exit
+> Last allocation=0x20000000000 (0 for automatic allocation)
+Address (0x...): Bytes: Allocated=0x20000000000
+
+1 System 2 Memory status 3 Query address
+4 Reserve 5 Commit 6 Reserve+commit
+7 Decommit 8 Release 9 Write byte 10 Protect 0 Exit
+> Last allocation=0x20000000000 (0 for automatic allocation)
+Address (0x...): Byte 0..255: Byte written
+
+1 System 2 Memory status 3 Query address
+4 Reserve 5 Commit 6 Reserve+commit
+7 Decommit 8 Release 9 Write byte 10 Protect 0 Exit
+> Last allocation=0x20000000000 (0 for automatic allocation)
+Address (0x...): Bytes: Protection (readonly=2, readwrite=4, noaccess=1): Previous=4 Verified protection=2
+
+1 System 2 Memory status 3 Query address
+4 Reserve 5 Commit 6 Reserve+commit
+7 Decommit 8 Release 9 Write byte 10 Protect 0 Exit
+> Last allocation=0x20000000000 (0 for automatic allocation)
+Address (0x...): Byte 0..255: 
+1 System 2 Memory status 3 Query address
+4 Reserve 5 Commit 6 Reserve+commit
+7 Decommit 8 Release 9 Write byte 10 Protect 0 Exit
+> Last allocation=0x20000000000 (0 for automatic allocation)
+Address (0x...): Bytes: 
+1 System 2 Memory status 3 Query address
+4 Reserve 5 Commit 6 Reserve+commit
+7 Decommit 8 Release 9 Write byte 10 Protect 0 Exit
+> Last allocation=0x20000000000 (0 for automatic allocation)
+Address (0x...): Base=0x20000000000 AllocationBase=0x20000000000 Size=8192 State=8192 Protect=0 Type=131072
+
+1 System 2 Memory status 3 Query address
+4 Reserve 5 Commit 6 Reserve+commit
+7 Decommit 8 Release 9 Write byte 10 Protect 0 Exit
+> Last allocation=0x20000000000 (0 for automatic allocation)
+Address (0x...): 
+1 System 2 Memory status 3 Query address
+4 Reserve 5 Commit 6 Reserve+commit
+7 Decommit 8 Release 9 Write byte 10 Protect 0 Exit
+> Last allocation=0x20000000000 (0 for automatic allocation)
+Address (0x...): Base=0x20000000000 AllocationBase=0 Size=138488298799104 State=65536 Protect=1 Type=0
+
+1 System 2 Memory status 3 Query address
+4 Reserve 5 Commit 6 Reserve+commit
+7 Decommit 8 Release 9 Write byte 10 Protect 0 Exit
+Win32 error 998
+> 
