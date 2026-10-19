@@ -1,0 +1,10 @@
+{
+  "platform": "Windows-11-10.0.26200-SP0",
+  "processor": "Intel64 Family 6 Model 141 Stepping 1, GenuineIntel",
+  "N": 10000000,
+  "student": 230616,
+  "block": 2306160,
+  "repeats": 10,
+  "timing": "Includes thread creation and teardown for both implementations",
+  "compiler": "MinGW g++ -O2 C++17; OpenMP -fopenmp"
+}
