@@ -1,0 +1,43 @@
+
+1 Disk mask  2 Disk list  3 Disk information
+4 Create directory  5 Remove directory  6 Create file
+7 CopyFile  8 MoveFile  9 MoveFileEx
+10 Get attributes  11 Set attributes  12 Handle information
+13 Get times  14 Set last-write time  0 Exit
+> Path: Destination: OK
+
+1 Disk mask  2 Disk list  3 Disk information
+4 Create directory  5 Remove directory  6 Create file
+7 CopyFile  8 MoveFile  9 MoveFileEx
+10 Get attributes  11 Set attributes  12 Handle information
+13 Get times  14 Set last-write time  0 Exit
+> Path: Destination: Replace existing destination? (yes/no): OK
+
+1 Disk mask  2 Disk list  3 Disk information
+4 Create directory  5 Remove directory  6 Create file
+7 CopyFile  8 MoveFile  9 MoveFileEx
+10 Get attributes  11 Set attributes  12 Handle information
+13 Get times  14 Set last-write time  0 Exit
+> Path: OK
+
+1 Disk mask  2 Disk list  3 Disk information
+4 Create directory  5 Remove directory  6 Create file
+7 CopyFile  8 MoveFile  9 MoveFileEx
+10 Get attributes  11 Set attributes  12 Handle information
+13 Get times  14 Set last-write time  0 Exit
+> Path: OK
+
+1 Disk mask  2 Disk list  3 Disk information
+4 Create directory  5 Remove directory  6 Create file
+7 CopyFile  8 MoveFile  9 MoveFileEx
+10 Get attributes  11 Set attributes  12 Handle information
+13 Get times  14 Set last-write time  0 Exit
+> 
+1 Disk mask  2 Disk list  3 Disk information
+4 Create directory  5 Remove directory  6 Create file
+7 CopyFile  8 MoveFile  9 MoveFileEx
+10 Get attributes  11 Set attributes  12 Handle information
+13 Get times  14 Set last-write time  0 Exit
+Error: stoi
+> 
+Nonempty copy and replacement SHA256 match: True

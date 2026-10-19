@@ -1,0 +1,171 @@
+
+1 Disk mask  2 Disk list  3 Disk information
+4 Create directory  5 Remove directory  6 Create file
+7 CopyFile  8 MoveFile  9 MoveFileEx
+10 Get attributes  11 Set attributes  12 Handle information
+13 Get times  14 Set last-write time  0 Exit
+> Mask: 36
+C:\
+F:\
+OK
+
+1 Disk mask  2 Disk list  3 Disk information
+4 Create directory  5 Remove directory  6 Create file
+7 CopyFile  8 MoveFile  9 MoveFileEx
+10 Get attributes  11 Set attributes  12 Handle information
+13 Get times  14 Set last-write time  0 Exit
+> C:\
+F:\
+OK
+
+1 Disk mask  2 Disk list  3 Disk information
+4 Create directory  5 Remove directory  6 Create file
+7 CopyFile  8 MoveFile  9 MoveFileEx
+10 Get attributes  11 Set attributes  12 Handle information
+13 Get times  14 Set last-write time  0 Exit
+> Root (C:\): Drive type: 3
+Label:  FS: NTFS Serial: 2732682527 Max name: 255 Flags: 65482495
+Cluster bytes: 4096 Free bytes: 40513003520 Total bytes: 1023281197056
+OK
+
+1 Disk mask  2 Disk list  3 Disk information
+4 Create directory  5 Remove directory  6 Create file
+7 CopyFile  8 MoveFile  9 MoveFileEx
+10 Get attributes  11 Set attributes  12 Handle information
+13 Get times  14 Set last-write time  0 Exit
+> Path: OK
+
+1 Disk mask  2 Disk list  3 Disk information
+4 Create directory  5 Remove directory  6 Create file
+7 CopyFile  8 MoveFile  9 MoveFileEx
+10 Get attributes  11 Set attributes  12 Handle information
+13 Get times  14 Set last-write time  0 Exit
+> Path: OK
+
+1 Disk mask  2 Disk list  3 Disk information
+4 Create directory  5 Remove directory  6 Create file
+7 CopyFile  8 MoveFile  9 MoveFileEx
+10 Get attributes  11 Set attributes  12 Handle information
+13 Get times  14 Set last-write time  0 Exit
+> Path: OK
+
+1 Disk mask  2 Disk list  3 Disk information
+4 Create directory  5 Remove directory  6 Create file
+7 CopyFile  8 MoveFile  9 MoveFileEx
+10 Get attributes  11 Set attributes  12 Handle information
+13 Get times  14 Set last-write time  0 Exit
+> Path: 
+1 Disk mask  2 Disk list  3 Disk information
+4 Create directory  5 Remove directory  6 Create file
+7 CopyFile  8 MoveFile  9 MoveFileEx
+10 Get attributes  11 Set attributes  12 Handle information
+13 Get times  14 Set last-write time  0 Exit
+Error: Win32 error 80
+> Path: Destination: OK
+
+1 Disk mask  2 Disk list  3 Disk information
+4 Create directory  5 Remove directory  6 Create file
+7 CopyFile  8 MoveFile  9 MoveFileEx
+10 Get attributes  11 Set attributes  12 Handle information
+13 Get times  14 Set last-write time  0 Exit
+> Path: Destination: 
+1 Disk mask  2 Disk list  3 Disk information
+4 Create directory  5 Remove directory  6 Create file
+7 CopyFile  8 MoveFile  9 MoveFileEx
+10 Get attributes  11 Set attributes  12 Handle information
+13 Get times  14 Set last-write time  0 Exit
+Error: Win32 error 80
+> Path: Destination: OK
+
+1 Disk mask  2 Disk list  3 Disk information
+4 Create directory  5 Remove directory  6 Create file
+7 CopyFile  8 MoveFile  9 MoveFileEx
+10 Get attributes  11 Set attributes  12 Handle information
+13 Get times  14 Set last-write time  0 Exit
+Error: Win32 error 183
+> Path: Destination: Replace existing destination? (yes/no): 
+1 Disk mask  2 Disk list  3 Disk information
+4 Create directory  5 Remove directory  6 Create file
+7 CopyFile  8 MoveFile  9 MoveFileEx
+10 Get attributes  11 Set attributes  12 Handle information
+13 Get times  14 Set last-write time  0 Exit
+> Path: Attribute mask: 32 readonly=0 hidden=0 system=0 archive=1 directory=0
+OK
+
+1 Disk mask  2 Disk list  3 Disk information
+4 Create directory  5 Remove directory  6 Create file
+7 CopyFile  8 MoveFile  9 MoveFileEx
+10 Get attributes  11 Set attributes  12 Handle information
+13 Get times  14 Set last-write time  0 Exit
+> Path: New attribute mask (decimal or 0x...; normal=128): OK
+
+1 Disk mask  2 Disk list  3 Disk information
+4 Create directory  5 Remove directory  6 Create file
+7 CopyFile  8 MoveFile  9 MoveFileEx
+10 Get attributes  11 Set attributes  12 Handle information
+13 Get times  14 Set last-write time  0 Exit
+> Path: Attribute mask: 1 readonly=1 hidden=0 system=0 archive=0 directory=0
+OK
+
+1 Disk mask  2 Disk list  3 Disk information
+4 Create directory  5 Remove directory  6 Create file
+7 CopyFile  8 MoveFile  9 MoveFileEx
+10 Get attributes  11 Set attributes  12 Handle information
+13 Get times  14 Set last-write time  0 Exit
+> Path: New attribute mask (decimal or 0x...; normal=128): OK
+
+1 Disk mask  2 Disk list  3 Disk information
+4 Create directory  5 Remove directory  6 Create file
+7 CopyFile  8 MoveFile  9 MoveFileEx
+10 Get attributes  11 Set attributes  12 Handle information
+13 Get times  14 Set last-write time  0 Exit
+> Path: Size: 0 Links: 1 Volume serial: 2732682527 File index: 2533274791667745
+OK
+
+1 Disk mask  2 Disk list  3 Disk information
+4 Create directory  5 Remove directory  6 Create file
+7 CopyFile  8 MoveFile  9 MoveFileEx
+10 Get attributes  11 Set attributes  12 Handle information
+13 Get times  14 Set last-write time  0 Exit
+> Path: Created: 2026-10-19 4:41:40 UTC
+Accessed: 2026-10-19 4:41:40 UTC
+Written: 2026-10-19 4:41:40 UTC
+OK
+
+1 Disk mask  2 Disk list  3 Disk information
+4 Create directory  5 Remove directory  6 Create file
+7 CopyFile  8 MoveFile  9 MoveFileEx
+10 Get attributes  11 Set attributes  12 Handle information
+13 Get times  14 Set last-write time  0 Exit
+> Path: UTC year: Month: Day: Hour: Minute: Second: OK
+
+1 Disk mask  2 Disk list  3 Disk information
+4 Create directory  5 Remove directory  6 Create file
+7 CopyFile  8 MoveFile  9 MoveFileEx
+10 Get attributes  11 Set attributes  12 Handle information
+13 Get times  14 Set last-write time  0 Exit
+> Path: Created: 2026-10-19 4:41:40 UTC
+Accessed: 2026-10-19 4:41:40 UTC
+Written: 2025-1-2 3:4:5 UTC
+OK
+
+1 Disk mask  2 Disk list  3 Disk information
+4 Create directory  5 Remove directory  6 Create file
+7 CopyFile  8 MoveFile  9 MoveFileEx
+10 Get attributes  11 Set attributes  12 Handle information
+13 Get times  14 Set last-write time  0 Exit
+Error: Win32 error 145
+> Path: 
+1 Disk mask  2 Disk list  3 Disk information
+4 Create directory  5 Remove directory  6 Create file
+7 CopyFile  8 MoveFile  9 MoveFileEx
+10 Get attributes  11 Set attributes  12 Handle information
+13 Get times  14 Set last-write time  0 Exit
+Error: Win32 error 2
+> Path: 
+1 Disk mask  2 Disk list  3 Disk information
+4 Create directory  5 Remove directory  6 Create file
+7 CopyFile  8 MoveFile  9 MoveFileEx
+10 Get attributes  11 Set attributes  12 Handle information
+13 Get times  14 Set last-write time  0 Exit
+> 
