@@ -1,0 +1,12 @@
+time,pid,role,id,state,page,value
+45734062,31548,writer,2,locked,-1,0
+45734062,31548,writer,2,waiting,2,0
+45734800,31548,writer,2,writing,2,1
+45735344,31548,writer,2,releasing,2,1
+45735344,31548,writer,2,waiting,7,0
+45735407,31548,writer,2,writing,7,1
+45736027,31548,writer,2,releasing,7,1
+45736027,31548,writer,2,waiting,6,0
+45736260,31548,writer,2,writing,6,2
+45736928,31548,writer,2,releasing,6,2
+45736928,31548,writer,2,finished,-1,0

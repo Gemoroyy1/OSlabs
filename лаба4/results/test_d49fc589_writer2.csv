@@ -1,0 +1,12 @@
+time,pid,role,id,state,page,value
+45690625,4536,writer,2,locked,-1,0
+45690625,4536,writer,2,waiting,2,0
+45691389,4536,writer,2,writing,2,1
+45691932,4536,writer,2,releasing,2,1
+45691932,4536,writer,2,waiting,7,0
+45692008,4536,writer,2,writing,7,1
+45692618,4536,writer,2,releasing,7,1
+45692618,4536,writer,2,waiting,6,0
+45692850,4536,writer,2,writing,6,2
+45693518,4536,writer,2,releasing,6,2
+45693518,4536,writer,2,finished,-1,0

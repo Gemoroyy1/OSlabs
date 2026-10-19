@@ -1,0 +1,12 @@
+time,pid,role,id,state,page,value
+45690609,11984,reader,6,locked,-1,0
+45690609,11984,reader,6,waiting,3,0
+45690609,11984,reader,6,reading,3,0
+45692074,11984,reader,6,releasing,3,0
+45692074,11984,reader,6,waiting,15,0
+45692074,11984,reader,6,reading,15,0
+45692916,11984,reader,6,releasing,15,0
+45692916,11984,reader,6,waiting,10,0
+45692916,11984,reader,6,reading,10,1
+45693786,11984,reader,6,releasing,10,1
+45693786,11984,reader,6,finished,-1,0

@@ -1,0 +1,26 @@
+SERVER
+
+1 Create pipe 2 Create event 3 Connect 4 Write 5 Disconnect 0 Exit
+> 
+1 Create pipe 2 Create event 3 Connect 4 Write 5 Disconnect 0 Exit
+> 
+1 Create pipe 2 Create event 3 Connect 4 Write 5 Disconnect 0 Exit
+> Connected
+
+1 Create pipe 2 Create event 3 Connect 4 Write 5 Disconnect 0 Exit
+> Data: Written bytes: 14
+
+1 Create pipe 2 Create event 3 Connect 4 Write 5 Disconnect 0 Exit
+> 
+1 Create pipe 2 Create event 3 Connect 4 Write 5 Disconnect 0 Exit
+> 
+CLIENT
+
+1 Connect 2 Read 0 Exit
+> Connected
+
+1 Connect 2 Read 0 Exit
+> Received: Serov IS 4312
+
+1 Connect 2 Read 0 Exit
+> 

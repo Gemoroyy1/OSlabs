@@ -1,0 +1,12 @@
+time,pid,role,id,state,page,value
+45734031,37828,reader,7,locked,-1,0
+45734031,37828,reader,7,waiting,10,0
+45734031,37828,reader,7,reading,10,0
+45735305,37828,reader,7,releasing,10,0
+45735305,37828,reader,7,waiting,4,0
+45735305,37828,reader,7,reading,4,0
+45736454,37828,reader,7,releasing,4,0
+45736454,37828,reader,7,waiting,9,0
+45736454,37828,reader,7,reading,9,2
+45737228,37828,reader,7,releasing,9,2
+45737228,37828,reader,7,finished,-1,0

@@ -1,0 +1,12 @@
+time,pid,role,id,state,page,value
+45690640,13216,writer,5,locked,-1,0
+45690640,13216,writer,5,waiting,10,0
+45692005,13216,writer,5,writing,10,1
+45692693,13216,writer,5,releasing,10,1
+45692693,13216,writer,5,waiting,1,0
+45693406,13216,writer,5,writing,1,1
+45694014,13216,writer,5,releasing,1,1
+45694014,13216,writer,5,waiting,7,0
+45694014,13216,writer,5,writing,7,2
+45695154,13216,writer,5,releasing,7,2
+45695154,13216,writer,5,finished,-1,0

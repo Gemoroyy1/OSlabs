@@ -1,0 +1,5 @@
+PASS 16 processes, 16 pages, VirtualLock confirmed in every process
+PASS 48 operations and no forbidden overlapping access
+PASS pipe case 0: 'Hello named pipe'
+PASS pipe case 1: 'Serov IS 4312'
+PASS pipe case 2: ''
