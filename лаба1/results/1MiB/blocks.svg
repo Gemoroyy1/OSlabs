@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="440">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="30">Block size, operations=2 (median, MiB/s)</text>
+<path d="M70 60 V370 H860" stroke="black" fill="none"/>
+<circle cx="90.0" cy="254.74987317139522" r="4" fill="blue"/>
+<text x="90.0" y="395" text-anchor="middle">4096</text>
+<text x="90.0" y="244.74987317139522" text-anchor="middle">36.6</text>
+<circle cx="275.0" cy="159.04683457787348" r="4" fill="blue"/>
+<text x="275.0" y="395" text-anchor="middle">16384</text>
+<text x="275.0" y="149.04683457787348" text-anchor="middle">69.8</text>
+<circle cx="460.0" cy="126.02714711943679" r="4" fill="blue"/>
+<text x="460.0" y="395" text-anchor="middle">65536</text>
+<text x="460.0" y="116.02714711943679" text-anchor="middle">81.3</text>
+<circle cx="645.0" cy="164.61967035289496" r="4" fill="blue"/>
+<text x="645.0" y="395" text-anchor="middle">262144</text>
+<text x="645.0" y="154.61967035289496" text-anchor="middle">67.9</text>
+<circle cx="830.0" cy="80.0" r="4" fill="blue"/>
+<text x="830.0" y="395" text-anchor="middle">1048576</text>
+<text x="830.0" y="70.0" text-anchor="middle">97.3</text>
+<polyline points="90.0,254.74987317139522 275.0,159.04683457787348 460.0,126.02714711943679 645.0,164.61967035289496 830.0,80.0" fill="none" stroke="blue"/></svg>

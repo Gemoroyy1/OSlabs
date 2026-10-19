@@ -1,0 +1,3 @@
+Best measured block: 1048576
+Best measured concurrency: 16
+Median speed: 109.381 MiB/s

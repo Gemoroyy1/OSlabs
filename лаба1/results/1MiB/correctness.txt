@@ -1,0 +1,41 @@
+PASS size=0 operations=1 cmp SHA256
+PASS size=0 operations=2 cmp SHA256
+PASS size=0 operations=4 cmp SHA256
+PASS size=0 operations=8 cmp SHA256
+PASS size=0 operations=12 cmp SHA256
+PASS size=0 operations=16 cmp SHA256
+PASS size=1 operations=1 cmp SHA256
+PASS size=1 operations=2 cmp SHA256
+PASS size=1 operations=4 cmp SHA256
+PASS size=1 operations=8 cmp SHA256
+PASS size=1 operations=12 cmp SHA256
+PASS size=1 operations=16 cmp SHA256
+PASS size=4095 operations=1 cmp SHA256
+PASS size=4095 operations=2 cmp SHA256
+PASS size=4095 operations=4 cmp SHA256
+PASS size=4095 operations=8 cmp SHA256
+PASS size=4095 operations=12 cmp SHA256
+PASS size=4095 operations=16 cmp SHA256
+PASS size=4096 operations=1 cmp SHA256
+PASS size=4096 operations=2 cmp SHA256
+PASS size=4096 operations=4 cmp SHA256
+PASS size=4096 operations=8 cmp SHA256
+PASS size=4096 operations=12 cmp SHA256
+PASS size=4096 operations=16 cmp SHA256
+PASS size=4097 operations=1 cmp SHA256
+PASS size=4097 operations=2 cmp SHA256
+PASS size=4097 operations=4 cmp SHA256
+PASS size=4097 operations=8 cmp SHA256
+PASS size=4097 operations=12 cmp SHA256
+PASS size=4097 operations=16 cmp SHA256
+PASS size=100003 operations=1 cmp SHA256
+PASS size=100003 operations=2 cmp SHA256
+PASS size=100003 operations=4 cmp SHA256
+PASS size=100003 operations=8 cmp SHA256
+PASS size=100003 operations=12 cmp SHA256
+PASS size=100003 operations=16 cmp SHA256
+PASS rejected ('/tmp/oslab-_wbdb4tg/source.bin', '/tmp/oslab-_wbdb4tg/source.bin', '4096', '2'): create destination: File exists
+PASS rejected ('/tmp/oslab-_wbdb4tg/source.bin', '/tmp/oslab-_wbdb4tg/target.bin', '4096', '2'): create destination: File exists
+PASS rejected ('/tmp/oslab-_wbdb4tg/source.bin', '/tmp/oslab-_wbdb4tg/target.bin', '1', '2'): Block must be a multiple of st_blksize=4096
+PASS rejected ('/tmp/oslab-_wbdb4tg/source.bin', '/tmp/oslab-_wbdb4tg/target.bin', '4096', '0'): Invalid positive integer
+PASS rejected ('/tmp/oslab-_wbdb4tg/source.binmissing', '/tmp/oslab-_wbdb4tg/target.bin', '4096', '2'): open source: No such file or directory

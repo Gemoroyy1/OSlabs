@@ -1,0 +1,7 @@
+aio_copy.cpp:18:11: warning: invalid use of ‘struct aiocb’ with a zero-size array in ‘struct aio_operation’ [-Wpedantic]
+   18 |     aiocb aio{};
+      |           ^~~
+In file included from aio_copy.cpp:1:
+/usr/include/aio.h:52:8: note: array member ‘char aiocb::__pad [0]’ declared here
+   52 |   char __pad[sizeof (__off64_t) - sizeof (__off_t)];
+      |        ^~~~~

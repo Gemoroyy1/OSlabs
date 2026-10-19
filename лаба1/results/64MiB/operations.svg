@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="440">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="30">Concurrent operations, block=1048576 (median, MiB/s)</text>
+<path d="M70 60 V370 H860" stroke="black" fill="none"/>
+<circle cx="90.0" cy="80.0" r="4" fill="blue"/>
+<text x="90.0" y="395" text-anchor="middle">1</text>
+<text x="90.0" y="70.0" text-anchor="middle">626.4</text>
+<circle cx="238.0" cy="173.29574784840935" r="4" fill="blue"/>
+<text x="238.0" y="395" text-anchor="middle">2</text>
+<text x="238.0" y="163.29574784840935" text-anchor="middle">417.7</text>
+<circle cx="386.0" cy="221.52420406267555" r="4" fill="blue"/>
+<text x="386.0" y="395" text-anchor="middle">4</text>
+<text x="386.0" y="211.52420406267555" text-anchor="middle">309.8</text>
+<circle cx="534.0" cy="203.8584867516022" r="4" fill="blue"/>
+<text x="534.0" y="395" text-anchor="middle">8</text>
+<text x="534.0" y="193.8584867516022" text-anchor="middle">349.3</text>
+<circle cx="682.0" cy="176.13027312530016" r="4" fill="blue"/>
+<text x="682.0" y="395" text-anchor="middle">12</text>
+<text x="682.0" y="166.13027312530016" text-anchor="middle">411.4</text>
+<circle cx="830.0" cy="157.44265018880213" r="4" fill="blue"/>
+<text x="830.0" y="395" text-anchor="middle">16</text>
+<text x="830.0" y="147.44265018880213" text-anchor="middle">453.2</text>
+<polyline points="90.0,80.0 238.0,173.29574784840935 386.0,221.52420406267555 534.0,203.8584867516022 682.0,176.13027312530016 830.0,157.44265018880213" fill="none" stroke="blue"/></svg>
